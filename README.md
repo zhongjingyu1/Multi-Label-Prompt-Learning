@@ -8,6 +8,7 @@
 |[Text as Image: Learning Transferable Adapter for Multi-Label Classification](https://arxiv.org/abs/2312.04160)|arxiv|2023|[Code](https://github.com/KaiyangZhou/CoOp)|
 |[Texts as Images in Prompt Tuning for Multi-Label Image Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Texts_as_Images_in_Prompt_Tuning_for_Multi-Label_Image_Recognition_CVPR_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/yu-gi-oh-leilei/TaI-DPT)|
 |[Hierarchical Prompt Learning Using CLIP for Multi-label Classification with Single Positive Labels](https://ise.thss.tsinghua.edu.cn/MIG/2023-3.pdf)|ACMMM|2023|[Code](https://github.com/jameslahm/HSPNet)|
+|[Text-Region Matching for Multi-Label Image Recognition with Missing Labels](https://arxiv.org/abs/2407.18520)|ACMMM|2024|[Code](https://github.com/yu-gi-oh-leilei/TRM-ML)|
 |[DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations](https://www.ijcai.org/proceedings/2024/0578.pdf)|IJCAI|2024|[Code](https://github.com/Jinx630/pseudo-visual-prompt)|
 |[DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition With Limited Annotations](https://arxiv.org/abs/2308.01890)|TPAMI|2024|[Code](https://github.com/sunxm2357/DualCoOp)|
 |[PVLR: Prompt-driven Visual-Linguistic Representation Learning for Multi-Label Image Recognition](https://arxiv.org/abs/2401.17881)|arxiv|2024|-|
