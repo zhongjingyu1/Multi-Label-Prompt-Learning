@@ -9,3 +9,4 @@
 |[Texts as Images in Prompt Tuning for Multi-Label Image Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Texts_as_Images_in_Prompt_Tuning_for_Multi-Label_Image_Recognition_CVPR_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/yu-gi-oh-leilei/TaI-DPT)|
 |[DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations](https://www.ijcai.org/proceedings/2024/0578.pdf)|IJCAI|2024|[Code](https://github.com/Jinx630/pseudo-visual-prompt)|
 |[DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition With Limited Annotations](https://arxiv.org/abs/2308.01890)|TPAMI|2024|[Code](https://github.com/sunxm2357/DualCoOp)|
+|[Text to Image for Multi-Label Image Recognition With Joint Prompt-Adapter Learning](https://arxiv.org/pdf/2506.10575)|TPAMI|2025|[Code](https://github.com/chunmeifeng/T2I-PAL)|
