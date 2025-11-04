@@ -10,7 +10,7 @@
 |**[HSPNet]**[Hierarchical Prompt Learning Using CLIP for Multi-label Classification with Single Positive Labels](https://ise.thss.tsinghua.edu.cn/MIG/2023-3.pdf)|ACMMM|2023|[Code](https://github.com/jameslahm/HSPNet)|
 |**[SCP-Net]**[Exploring Structured Semantic Prior for Multi Label Recognition with Incomplete Labels](https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_Exploring_Structured_Semantic_Prior_for_Multi_Label_Recognition_With_Incomplete_CVPR_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/jameslahm/SCPNet)|
 |**[TRM-ML]**[Text-Region Matching for Multi-Label Image Recognition with Missing Labels](https://arxiv.org/abs/2407.18520)|ACMMM|2024|[Code](https://github.com/yu-gi-oh-leilei/TRM-ML)|
-|**[TAI++]**[: Text as Image for Multi-Label Image Classification by Co-Learning Transferable Prompt](https://www.ijcai.org/proceedings/2024/0578.pdf)|IJCAI|2024|[Code](https://github.com/Jinx630/pseudo-visual-prompt)|
+|**[PVP]**[TAI++: Text as Image for Multi-Label Image Classification by Co-Learning Transferable Prompt](https://www.ijcai.org/proceedings/2024/0578.pdf)|IJCAI|2024|[Code](https://github.com/Jinx630/pseudo-visual-prompt)|
 |**[DualCoOp++]**[DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition With Limited Annotations](https://arxiv.org/abs/2308.01890)|TPAMI|2024|[Code](https://github.com/sunxm2357/DualCoOp)|
 |**[PVLR]**[PVLR: Prompt-driven Visual-Linguistic Representation Learning for Multi-Label Image Recognition](https://arxiv.org/abs/2401.17881)|arxiv|2024|-|
 |**[-]**[Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning](https://arxiv.org/pdf/2403.01209)|arxiv|2024|[Code](https://github.com/shuoyang129/image-free-multi-label-image-recognition)|
