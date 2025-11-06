@@ -3,7 +3,7 @@
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |**[CoOp]**[Learning to prompt for vision-language models](https://arxiv.org/abs/2109.01134)|IJCV|2022|[Code](https://github.com/KaiyangZhou/CoOp)|
-|**[CoOp]**[Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557)|CVPR|2022|[Code](https://github.com/KaiyangZhou/CoOp)|
+|**[CoCoOp]**[Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557)|CVPR|2022|[Code](https://github.com/KaiyangZhou/CoOp)|
 |**[DualCoOp]**[DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations](https://papers.nips.cc/paper_files/paper/2022/file/c5169260ef32d1bd3597c14d8c89b034-Paper-Conference.pdf)/[supp.](https://papers.nips.cc/paper_files/paper/2022/file/c5169260ef32d1bd3597c14d8c89b034-Supplemental-Conference.pdf)|NeurIPS|2022|[Code](https://github.com/sunxm2357/DualCoOp)|
 |**[TaI-Adapter]**[Text as Image: Learning Transferable Adapter for Multi-Label Classification](https://arxiv.org/abs/2312.04160)|arxiv|2023|[Code](https://github.com/KaiyangZhou/CoOp)|
 |**[TaI-DPT]**[Texts as Images in Prompt Tuning for Multi-Label Image Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Texts_as_Images_in_Prompt_Tuning_for_Multi-Label_Image_Recognition_CVPR_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/yu-gi-oh-leilei/TaI-DPT)|
