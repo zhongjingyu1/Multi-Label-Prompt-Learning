@@ -1,4 +1,5 @@
 # Multi-Label Image Recognition with Prompt Learning
+    A curated list of resources for Partial-Multi-Label-Learning
 ## Papers & Code
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
