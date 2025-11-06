@@ -1,4 +1,4 @@
-# Multi-Label-Prompt
+# Multi-Label Image Recognition with Prompt Learning
 ## Papers & Code
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
