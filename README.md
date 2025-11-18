@@ -24,3 +24,4 @@
 |**[HP-DVAL]**[Dual-View Alignment Learning With Hierarchical-Prompt for Class-Imbalance Multi-Label Image Classification](https://arxiv.org/pdf/2509.17747)|TIP|2025|[Code](https://github.com/jiexuanyan/HP-DVAL)|
 |**[AMITA]**[AMITA: Attribute-guided Masked Image-Text Alignment for Multi-label Image Representation](https://ieeexplore.ieee.org/document/11027116)|TSCVT|2025|-|
 |**[CMP]**[Cross-Modality Prompts: Few-Shot Multi-Label Recognition With Single-Label Training](https://ieeexplore.ieee.org/abstract/document/10948337)|TMM|2025|-|
+|**[SCINet]**[Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge](https://arxiv.org/pdf/2507.05992)|arXiv|2025|[Code](https://github.com/wuliwuxin/SCINet)|
